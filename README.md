@@ -1,1 +1,256 @@
 # CraftNectar-Fabric
+
+This is the official modpack for the CraftNectar server.
+
+## How do I play?
+
+1. Download the modpack zip file, and import it into your favorite launcher. (Curse, Prism, AT Launcher, etc.)
+2. Using the instance you just downloaded, ensure you've allocated at least 6GB (8GB reccomended, but never use more than half your RAM on minecraft) and make sure your instance is using java version 8.
+3. Open the instance and connect to `craft.divnectar.com`
+
+## I want to contribute to the pack
+
+Great! We'd love your contribution. If you know anything about git and terminals, it's easy as pie. Simply clone the repo for the modpack. Ensure you have Packwiz installed on your system, then use the Packwiz documentation to learn how to add mods to the modpack. When you are done editing, please submit a pull request for your mod additions and they will be considered.
+
+We are open to all community submissions, so long as it isn't too resource intensive or makes players overpowered.
+
+## Modlist:
+
+<details open>
+<summary>Modlist:</summary>
+<br>
+- [ETF] Entity Texture Features - [Fabric & Forge]
+- [Fabric] Extended Armor Bars Forked
+- [Let's Do] API 
+- [Let's Do] Vinery
+- Adorn
+- AdvancementInfo
+- Alloy Forgery
+- Animatica
+- AntiGhost
+- AppleSkin
+- Applied Energistics 2
+- Architectury API (Fabric/Forge)
+- ARRP
+- Artifacts (Fabric)
+- AttributeFix
+- bad packets
+- Balm (Fabric Edition)
+- BanHammer!
+- BCLib
+- Better Animals Plus
+- Better Combat [Fabric & Forge]
+- Better Mount HUD
+- BetterEnd
+- BetterF3
+- BetterNether
+- Bewitchment
+- Biome Music[Forge/Fabric]
+- Blockus
+- Bookshelf
+- Borderless Mining
+- Bosses of Mass Destruction
+- Botania (Fabric/Quilt)
+- Botany Pots
+- Bucolic Origins [FORGE/FABRIC]
+- Capes [Fabric/Forge]
+- Cardinal Components API
+- CC: Restitched
+- Charmonium
+- Chat Heads
+- Chunky (Fabric)
+- Chunky Border (Fabric)
+- CIT Resewn
+- Cloth Config API (Fabric/Forge)
+- Clumps
+- Collective
+- Colormatic
+- Connected Glass
+- Connectivity[Forge/Fabric]
+- Continuity
+- Controlling
+- Cooking for Blockheads (Fabric Edition)
+- CorgiLib
+- Cosmetic Armor [FABRIC]
+- Couplings
+- Create Crafts & Additions
+- Create Deco Fabric
+- Create Fabric
+- Create Slice & Dice
+- Creeper Overhaul
+- Cucumber Library: Refabricated
+- Cull Less Leaves
+- Cupboard
+- Custom Entity Models (CEM)
+- Data Attributes
+- Debugify
+- Deeper and Darker
+- Delightful Creators [Fabric] (Create and Farmer's Delight Addon)
+- Diggus Maximus
+- Discord Integration Fabric
+- Doodads [Fabric]
+- Dynamic FPS
+- Easy Anvils [Forge & Fabric]
+- Easy Magic [Forge & Fabric]
+- Enchantment Descriptions
+- Enhanced Block Entities
+- Entity Culling Fabric/Forge
+- Essential Commands
+- Explorer's Compass
+- Extra Origins
+- Fabric API
+- Fabric Language Kotlin
+- Fabric Waystones
+- FabricSkyboxes
+- FabricSkyBoxes Interop
+- Fabrishot
+- FallingTree (Forge&Fabric)
+- Farmer's Delight [Fabric]
+- Farsight [Fabric]
+- FerriteCore (Fabric)
+- Forge Config API Port [Fabric]
+- Friends&Foes (Fabric) (Copper Golem, Glare, Moobloom, Iceologer, Barnacle, Wildfire, Illusioner, Rascal and Tuff Golem)
+- GeckoLib
+- Handcrafted
+- Healing Campfire
+- Health Overlay (Fabric)
+- Hex Casting
+- Iceberg [Fabric]
+- Immersive Armors [Fabric/Forge]
+- Indium
+- Industrial Revolution
+- Integrated API
+- Integrated Stronghold
+- Inventory HUD+
+- Inventory Sorting
+- Iris Shaders
+- Item Borders [Fabric]
+- Item Model Fix (Fabric)
+- JamLib
+- Just Enough Items (JEI)
+- KubeJS
+- LambdaBetterGrass
+- LambDynamicLights
+- Language Reload
+- LazyDFU
+- Let Me Despawn
+- LibZ
+- Lightman's Currency Fabric
+- Lithium (Fabric)
+- LootJS: KubeJS Addon
+- Lootr (Fabric)
+- Macaw's Doors
+- Macaw's Fences and Walls
+- Macaw's Furniture
+- Macaw's Paths and Pavings
+- Macaw's Roofs
+- Macaw's Trapdoors
+- Macaw's Windows
+- Main Menu Credits
+- Marium's Soulslike Weaponry
+- Medieval Music[Forge/Fabric]
+- MedievalWeapons
+- megane
+- Merchant Markers [Fabric]
+- MidnightControls
+- Minecraft Transit Railway (Automated trains, planes, and more!)
+- Mixin Conflict Helper
+- MixinTrace
+- MmmMmmMmmMmm (Target Dummy)
+- Mod Menu
+- ModernFix
+- Moonlight Lib
+- More Bows: Restrung!
+- More Chat History
+- Mouse Tweaks
+- Mystical Agriculture: Refabricated
+- Mythic Metals
+- Mythic Mounts
+- Naturalist
+- Nature's Compass
+- Nether's Delight (Fabric)
+- No Chat Reports
+- No Fade
+- No Mob Farms
+- Nyctophobia (FABRIC)
+- Nyf's Quivers
+- Oh The Biomes You'll Go Refabricated
+- Open Parties and Claims
+- OptiGUI
+- Origins (Fabric)
+- Origins Extra Keybinds
+- Origins++
+- oωo (owo-lib)
+- Paladin's Furniture
+- Paladins & Priests (RPG Series)
+- Patchouli (Fabric/Quilt)
+- PAUCAL
+- Pehkui
+- playerAnimator
+- PlayerEx
+- Plenty Of Armors [Fabric]
+- Polymer
+- Polymorph (Fabric 1.16.1 - 1.19.2)
+- Powah! (Rearchitected)
+- Prism [Fabric]
+- Puzzle
+- Puzzles Lib [Forge & Fabric]
+- Rare Ice (Forge/Fabric)
+- Reborn Core
+- Reese's Sodium Options
+- Resourceful Config
+- Resourceful Lib
+- Revelationary
+- Rhino
+- Rings of Ascension (Fabric)
+- Runes [Fabric]
+- Server Holograms
+- Shield Overhaul [Fabric/Forge]
+- Show Me What You Got
+- Simple Discord Rich Presence (Forge /  Fabric)
+- Simply Swords [Fabric & Forge]
+- Skin Layers 3D (Fabric/Forge)
+- Smooth Boot (Fabric)
+- Sodium Extra
+- Sound Physics Remastered
+- Spectrum
+- Spell Power Attributes [Fabric]
+- Spellblades and Such (Spell Engine)
+- Sprinks
+- Starlight (Fabric)
+- Structory: Towers
+- Styled Player List
+- SuperMartijn642's Core Lib
+- Supplementaries
+- Taterzens [Fabric]
+- Tech Reborn
+- TerraBlender (Fabric)
+- Terralith
+- Things [Fabric]
+- Tips
+- Tom's Simple Storage Mod (Fabric)
+- Towns and Towers
+- Traveler's Backpack [Fabric]
+- Trinkets (Fabric)
+- Ultris: Boss Expansion
+- Utility Belt
+- When Dungeons Arise - Fabric!
+- WizardEx
+- Wizards (RPG Series)
+- WTHIT
+- Xaero's Minimap
+- Xaero's World Map
+- XL Packets Fabric
+- YetAnotherConfigLib
+- You're in Grave Danger
+- Your Options Shall Be Respected (YOSBR)
+- YUNG's API (Fabric)
+- YUNG's Better Desert Temples (Fabric)
+- YUNG's Better Dungeons (Fabric)
+- YUNG's Better Mineshafts (Fabric)
+- YUNG's Better Nether Fortresses (Fabric)
+- YUNG's Better Ocean Monuments (Fabric)
+- YUNG's Better Strongholds (Fabric)
+- YUNG's Bridges (Fabric)
+- Zoomify
+</details>
