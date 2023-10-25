@@ -1,0 +1,28 @@
+{
+  "modules": {
+    "megane-reborn-core": {
+      "lol.bai.megane.module.reborncore.MeganeRebornCore": true
+    },
+    "megane-industrial-revolution": {
+      "lol.bai.megane.module.indrev.MeganeIndustrialRevolution": true
+    },
+    "megane-create": {
+      "lol.bai.megane.module.create.MeganeCreate": true
+    },
+    "megane-alloy-forgery": {
+      "lol.bai.megane.module.alloyforgery.MeganeAlloyForgery": true
+    },
+    "megane-tech-reborn": {
+      "lol.bai.megane.module.techreborn.MeganeTechReborn": true
+    },
+    "megane-applied-energistics-2": {
+      "lol.bai.megane.module.ae2.MeganeAppliedEnergistics2": true
+    },
+    "megane-powah": {
+      "lol.bai.megane.module.powah.MeganePowah": true
+    },
+    "megane-vanilla": {
+      "lol.bai.megane.module.vanilla.MeganeVanilla": true
+    }
+  }
+}

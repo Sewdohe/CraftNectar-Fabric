@@ -1,0 +1,13 @@
+name = "Ultris: Boss Expansion"
+filename = "ultris-v5.6.7f.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0b4bd06f8651b10250cca3a5ff25428fd3a88b2e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4403145
+project-id = 634942

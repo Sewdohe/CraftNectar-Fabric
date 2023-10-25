@@ -1,0 +1,13 @@
+name = "Server Holograms"
+filename = "holograms-1.4.0+1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f6088c144baaf71a614c7a6cfaafec783c6cd392"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3987492
+project-id = 494722

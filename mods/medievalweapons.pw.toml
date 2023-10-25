@@ -1,0 +1,13 @@
+name = "MedievalWeapons"
+filename = "medievalweapons-1.4.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2eefd49304f87772cc0df6c62a7f69132d318b2b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4547726
+project-id = 411400

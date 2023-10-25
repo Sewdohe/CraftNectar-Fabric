@@ -1,0 +1,13 @@
+name = "Sprinks"
+filename = "sprinks-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8c7440911ef0adca23802e59c8e2d26e4ce03280"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4325497
+project-id = 582098

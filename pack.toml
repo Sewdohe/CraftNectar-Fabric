@@ -1,0 +1,13 @@
+name = "Craft Nectar Fabric"
+author = "Sewdohe"
+version = "3.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "eae16d378f5798479f5dbc2fbb55d5adc28be053bf910105bf83c2140c91362c"
+
+[versions]
+fabric = "0.14.23"
+minecraft = "1.19.2"

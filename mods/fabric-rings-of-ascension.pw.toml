@@ -1,0 +1,13 @@
+name = "Rings of Ascension (Fabric)"
+filename = "RingsOfAscension-1.19.2-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e92d49a3f2395afb81c119127b9bd4c8920ff930"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3986449
+project-id = 388793
